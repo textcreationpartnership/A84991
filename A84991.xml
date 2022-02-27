@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of the great victory obtained by the Parliaments forces under the command of Lievt. Gen. Cromwel against the whole army of the Scots, under the conduct of Duke Hamilton. With the numbers slaine and taken prisoners. Sent in a letter under the Lievt. Generals owne hand: which was read in both Houses of Parliament upon Wednesday the 23 of Aug. 1648. With an order of Parliament for a thanksgiving for the same. Die Mercurii 23 August. 1648. Ordered by the lords assembled in Parliament, that Lievt Generall Cromwels letter be forthwith printed and published. Joh. Brown Cler. Parliament.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84991</idno>
+            <idno type="STC">Wing F2362</idno>
+            <idno type="STC">Thomason E460_28</idno>
+            <idno type="STC">ESTC R202169</idno>
+            <idno type="EEBO-CITATION">99862562</idno>
+            <idno type="PROQUEST">99862562</idno>
+            <idno type="VID">114725</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114725)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of the great victory obtained by the Parliaments forces under the command of Lievt. Gen. Cromwel against the whole army of the Scots, under the conduct of Duke Hamilton. With the numbers slaine and taken prisoners. Sent in a letter under the Lievt. Generals owne hand: which was read in both Houses of Parliament upon Wednesday the 23 of Aug. 1648. With an order of Parliament for a thanksgiving for the same. Die Mercurii 23 August. 1648. Ordered by the lords assembled in Parliament, that Lievt Generall Cromwels letter be forthwith printed and published. Joh. Brown Cler. Parliament.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament. House of Lords. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>Imprinnted [sic] at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug ye 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Preston, Battle of, 1648 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114725:1"/>
+            <pb facs="tcp:114725:1" rendition="simple:additions"/>
+            <p>A Full RELATION OF The great Victory obtained by the PARLIAMENTS Forces under the Command of Lievt. Gen. Cromwel AGAINST The whole Army of the SCOTS, un<g ref="char:EOLhyphen"/>der the conduct of Duke Hamilton. With the numbers ſlaine and taken Priſoners. Sent in a Letter under the Lievt. Generals owne hand: Which was read in both Houſes of Parlia<g ref="char:EOLhyphen"/>ment upon <hi>Wedneſday</hi> the 23 of <hi>Aug.</hi> 1648. <hi>With an Order of Parliament for a Thanksgiving for the ſame.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="order_to_print">
+                  <body>
+                     <opener>
+                        <date>Die Mercurii 23 Auguſt. 1648.</date>
+                     </opener>
+                     <p>
+                        <hi>ORdered by the Lords Aſſembled in Parliament, That Lievt. Generall Cromwels Letter be forthwith prin<g ref="char:EOLhyphen"/>ted and publiſhed.</hi>
+                     </p>
+                     <closer>
+                        <signed>Joh. Brown Cler. Parliament.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinnted at <hi>London</hi> for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:114725:2"/>
+            <head>For the Honourable <hi>William Lenthall</hi> Esq; Speaker of the Houſe of Com<g ref="char:EOLhyphen"/>mons. Theſe.</head>
+            <p>Haſte.</p>
+            <p>
+               <hi>SIR;</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg> Have ſent up this Gentleman, to give you an accompt of the great and good hand of God towards you in the late victory obtai<g ref="char:EOLhyphen"/>ned againſt the Enemy in theſe parts.</p>
+            <p>After the conjunction of that party which I brought with me out of <hi>Wales,</hi> with the Northerne Forces about <hi>Knaresborough</hi> and <hi>Weatherby,</hi> hearing that the Enemy was ad<g ref="char:EOLhyphen"/>vanced with their Army into <hi>Lancaſhire,</hi> we marched the next day, being the 13 of this inſtant <hi>Auguſt,</hi> to <hi>Oately,</hi> (having caſt off our Traine, and ſent it to <hi>Knaresborough,</hi> becauſe of the difficulty of marching therewith through <hi>Graven;</hi> and to the end we might with more expedition attend the Enemies motion) and from thence the 14. to <hi>Skipton,</hi> the 15. to <hi>Gysburne,</hi> the 16. to <hi>Hodder</hi> Bridge, over <hi>Ribble,</hi> where we had a Councell of War, at which we had in conſideration, Whether we ſhould march to <hi>Whalley</hi> that night, and ſo on to interpoſe betweene the Enemy and his further progreſſe into <hi>Lancaſhire,</hi> and ſo Southward, which we had ſome advertiſement the Enemy intended, and ſince confirmed that they reſolved for <hi>London</hi> it ſelfe; or whether to march immediately over the ſaid Bridge, there being no other betwixt that and <hi>Preſton,</hi> and ingage the Enemy there; who we did believe would ſtand his ground, becauſe we had informati<g ref="char:EOLhyphen"/>on that the Iriſh Forces under <hi>Munroe</hi> lately came out of <hi>Ireland,</hi> which conſiſted of 1200. Horſe and 1500 Foot, were on their march towards <hi>Lancaſter</hi> to joyne with them; It was thought that to ingage the Enemy to fight was our buſineſſe; and the reaſon aforeſaid giving us hopes that our marching on the North fide of <hi>Ribble</hi> would effect it; It was reſolved we ſhould march over the Bridge, which accordingly we did, and that night quartered the whole Army in the fields by <hi>Stony-Hurſt-</hi>Hall, be<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:114725:2"/> Mr. <hi>Sherburnes</hi> houſe, a place nine miles diſtant from <hi>Preſton,</hi> Very early the next morning we marched towards <hi>Preſton,</hi> having intelligence that the Enemy was drawing together there abouts from all his out quarters; we drew out a forlorn of about 200. Horſe and 400. Foot, the Horſe commanded by Major <hi>Smithſon,</hi> the Foot by Major <hi>Pounell;</hi> our Forlorn of Horſe marched with<g ref="char:EOLhyphen"/>in a mile, where the Enemy was drawne up in the incloſed grounds by <hi>Preſton</hi> on that ſide next us; And there upon a Moore about halfe a mile diſtant from the Enemies Army, meet with their Scouts and out-Guard; and did behave themſelves with that valour and courage, as made their Guards (which conſiſted both of Horſe and Foot) to quit their ground, and tooke divers priſoners, holding this diſpute with them untill our Forlorne of Foot came up for their Juſtification; And by theſe we had op<g ref="char:EOLhyphen"/>portunity to bring up our whole Army. So ſoone as our Foot and Horſe were come up, we reſolved that night to ingage them if we could; and therefore advancing with our Forlornes, and putting the reſt of the Army into as good a poſture as the ground would beare (which was totally inconvenient for our Horſe, being all in cloſure, and myerye ground) we preſſed upon them, the Regiments of Foot were ordered as followeth, There being a lane very deepe and ill up to the En<g ref="char:EOLhyphen"/>emies Army and leading to the Towne, we Commanded two Regiments of Horſe, the firſt whereof was Colonell <hi>Harriſons,</hi> and next was my owne, to charge up that Lane, and on either ſide of them advanced the Battle, which were Lievtenant Co<g ref="char:EOLhyphen"/>lonell <hi>Reads,</hi> Colonell <hi>Deanes,</hi> and Colonell <hi>Prides</hi> on the right, Colonell <hi>Brights</hi> and my Lord Generals on the left, and Colo<g ref="char:EOLhyphen"/>nell <hi>Aſhton</hi> with the <hi>Lancaſhire</hi> Regiments in reſerve; we order<g ref="char:EOLhyphen"/>ed Colonell <hi>Thornhaugh,</hi> and Colonell <hi>Twiſletons</hi> Regiments of Horſe of the right, and one Regiment in reſerve for the Lane, and the remaining Hotſe on the left; ſo that at laſt we came to a hedge diſpute, the greateſt of the impreſſion from the Ene<g ref="char:EOLhyphen"/>my being upon our left wing, and upon the Battell on both ſides the Lane, and upon our Horſe in the Lane, in all which places the Enemie was forced from their ground after foure houres diſpute, until we came to the Towne, into which foure Troopes of my Regiment firſt entered and being well ſeconded by Colonell <hi>Harriſons</hi> Regiment, charged the Enemy in the Towne and cleare the Streets, there came no hands of our
+<pb n="4" facs="tcp:114725:3"/> Foot to fight that day, but did it with incredible valour and re<g ref="char:EOLhyphen"/>ſolution, amongſt which Colonell <hi>Brights,</hi> my Lord Generall, Lievtenant Colonell <hi>Reads,</hi> and Colonell <hi>Aſhtons</hi> had the greateſt worke, they often comming to puſh of Pike and to cloſe firings, and alwaies making the Enemy to recoyle, and indeed I muſt needs ſay, God was as much ſeene in the valour of the Officers and Souldiers of theſe before mentioned, as in any action that hath beene performed, the Enemy making (though he was ſtill worſted) very ſtiffe and ſturdy reſiſtance, Colonell <hi>Deanes,</hi> and Colonell <hi>Prides</hi> out winging the Enemy could not come to ſo much ſhare of the action, the Enemy ſhoging downe towards the Bridge, and keeping almoſt all in reſerve, that ſo he might bring freſh hands often to fight, which we not knowing but leaſt we ſhould be out winged, placed thoſe two Regiments to inlarge our right wing, which was the cauſe they had not at that time ſo great a ſhare in that action; at the laſt the Enemy was put into diſorder, many men ſlain, many priſoners taken; the Duke with moſt of the Scots Horſe and Foot retreated over the Bridge, where after a very hot diſpute betwixt the <hi>Lancaſhire</hi> Regiments, part of my Lord Generals and them being at puſh of Pike, they were beaten from the Bridge, and our Horſe and Foot following them, killed many, and tooke divers priſoners, and wee poſſeſſed the Bridge over <hi>Darwent</hi> and a few Houſes there, the Enemy being drawne up within Muſquet ſhot of us where we lay that night, we not being able to attempt further upon the Enemy, the night preventing us; in this poſture did the Enemy and we lie the moſt part of that night; upon our entering the Towne, many of the Enemies Horſe fled towards <hi>Lancaſter,</hi> in the chaſe of whom went divers of our Horſe, who purſued them neare ten miles, and had execution of them, and tooke about five hundred Horſe, and many priſoners; We poſſeſſed in this Fight very much of the Enemies Ammunition, I beleeve they loſt foure or five thouſand Armes, the number of the ſlain we judge to be about a thouſand, the priſoners we took were about four thouſand.</p>
+            <p>In the night rhe Duke was drawing off his Army towards <hi>Wiggon,</hi> we were ſo wearied with the diſpute that we did not ſo well attend the Enemies going off as might have been, by means whereof the Enemy was gotten at leaſt three miles with his reare before ours got to them. I ordered Colonell <hi>Thornhaugh</hi> to
+<pb n="5" facs="tcp:114725:3"/> Command two or three Regiments of Horſe to follow the Ene<g ref="char:EOLhyphen"/>my if it were poſſible, to make him ſtand till we could bring up the Army: The Enemy marched away ſeven or eight thouſand Foot, and about foure thouſand Horſe, we followed him with about three thouſand Foote, and two thouſand five hundred Horſe and Dragoones, and in this proſecution that worthy Gen<g ref="char:EOLhyphen"/>tleman Colonell <hi>Thornhaugh</hi> preſſing too boldly was ſlaiue, be<g ref="char:EOLhyphen"/>ing run into the body, and thigh, and head, by the Enemies Launcers, (and give me leave to ſay, he was a man as faithfull and gallant in your ſervice as any, and one who often hereto<g ref="char:EOLhyphen"/>fore loſt bloud in your quarrell, and now his laſt; he harh left ſomebehind him to inherit a Fathers honour, and a ſad Wid<g ref="char:EOLhyphen"/>dow, both now the intereſt of the Common-wealth) our Horſe ſtill proſecuted the Enemy, killing and taking divers all the way, at laſt the enemy drew up within three miles of <hi>Wiggon,</hi> and by that time our Army was come up they drew off againe and recovered <hi>Wiggon</hi> before we could attempt any thing upon them, we lay that night in the field cloſe by the Enemy, being very dirty and weary, and having marched twelve miles of ſuch ground as I never rod in all my life, the day being very wet we had ſome skirmiſhing that nigh; with the Enemy neere the Towne, where we tooke Major Generall <hi>Van Druske</hi> and a Col<g ref="char:EOLhyphen"/>lonell, and killed ſome principall Officers, and tooke about a hundred priſoners, where alſo I received a Letter from Duke <hi>Hamilton</hi> for civill uſage towards his Kinſman Colonell <hi>Ha<g ref="char:EOLhyphen"/>milton</hi> whom he left wounded there.</p>
+            <p>We took alſo Col. <hi>Hurrey,</hi> and Lieut. Col. <hi>Ennis,</hi> ſometimes in your ſervice. The next morning the enemy marched towards <hi>Warrington,</hi> and we at the heeles of them, the town of <hi>Wiggon</hi> a great and poore town, and very Malignant, were plundered al<g ref="char:EOLhyphen"/>moſt to their skins by them; we could not ingage the enemy un<g ref="char:EOLhyphen"/>till we came within three miles of <hi>Warrington,</hi> and there the ene<g ref="char:EOLhyphen"/>my made a ſtand at a paſſe neare <hi>Winwicke,</hi> we held them in ſome diſpute untill our Army was come up, they maintaining the paſſe with great reſolution for many hours, ours and theirs comming to puſh of pike, and to very cloſe charges, and forced us to give ground, but our men by the bleſſing of God quickly recovered it, and charging very home upon them beat them from their ſtanding, where we killed about a thouſand of them, and tooke (as we beleeve) about two thouſand priſoners, and proſecuted them home to <hi>Warrington</hi> town, where they poſſeſſed the Bridge,
+<pb n="6" facs="tcp:114725:4"/> which had a ſtrong Barracado and a Worke upon it, formerly made very defenſive; as ſoone as we came thither I received a Meſſage from Lieut. Generall <hi>Baily,</hi> deſiring ſome capitulation, to which I yeelded, conſidering the ſtrength of the paſſe, and that I could not goe over the river within ten miles of <hi>Warrington</hi> with the Army; I gave him theſe tearms, That he ſhould ſurren<g ref="char:EOLhyphen"/>der himſelfe, and all his Officers and Souldiers priſoners of War, with all his Armes and Ammunition and Horſes to me, I gi<g ref="char:EOLhyphen"/>ving quarter for life, and promiſing civill uſage, which accor<g ref="char:EOLhyphen"/>dingly is done, and the Commiſſioners deputed by me have re<g ref="char:EOLhyphen"/>ceived, and are receiving all the Armes and Ammunition which will be as they tell me about foure thouſand compleat Armes, and as many priſoners. And thus you have their Infantry totally ruined, what Colonells or Officers are with Lievtenant Ge<g ref="char:EOLhyphen"/>nerall <hi>Bailey,</hi> I have not yet received the Liſt. The Duke is marched with his remaining Horſe, which are about 3000. to<g ref="char:EOLhyphen"/>wards <hi>Namptwich,</hi> where the Gentlemen of the Country have taken about 500. of them, of which they ſent me word this day; the Country will ſcarce ſuffer any of my men to paſſe, ex<g ref="char:EOLhyphen"/>cept they have my hand, telling them, They are <hi>Scots;</hi> they bring in and kill divers as they light upon them. Moſt of the Nobility of <hi>Scotland</hi> are with the Duke, if I had a thouſand Horſe that could but trot thirty miles I ſhould not doubt but to give a very good account of them; but truly we are ſo harraſed and hagled out in this buſineſſe that we are not able to doe more than walke an eaſie pace after them. I have ſent Poſt to my Lord <hi>Grey</hi> to Sir <hi>Hen. Chomley,</hi> and Sir <hi>Edw. Roads,</hi> to gather all together with ſpeed for their proſecution, as likewiſe to acquaint the Gover<g ref="char:EOLhyphen"/>nour of <hi>Stafford</hi> therewith; I heare <hi>Munro</hi> is about <hi>Cumberland</hi> with the Horſe that ran away, and his <hi>Iriſh</hi> Horſe and Foot, which are a conſiderable body; I have left Colonell <hi>Aſh<g ref="char:EOLhyphen"/>tons</hi> three Regiments of Foot with ſeven Troops of Horſe, ſix of <hi>Lancaſhire,</hi> and one of <hi>Cumberland</hi> at Preſton, and ordered Col. <hi>Scroape</hi> with five Troops of Horſe, and two Troops of Dragoons, with two Regiments of Foot, <hi>viz.</hi> Col. <hi>Laſſells,</hi> and Col. <hi>Waſtalls</hi> to imbody with them, by which I hope they will be able to make a reſiſtance till we can come up to them, and have ordered them to put their Priſoners to the Sword if the <hi>Scots</hi> ſhall preſume to advance upon them, becauſe they cannot bring them off with ſecurity.</p>
+            <pb n="7" facs="tcp:114725:4"/>
+            <p>Thus you have a Narrative of the particulars of the ſucceſſe which God hath given you, which I could hardly at this time have done, conſidering the multiplicity of buſineſſe; but truly when I was once engaged in it, I could hardly tell how to ſay leſſe, there being ſo much of God; and I was not willing to ſay more, leaſt there ſhould ſeeme to be any thing of man, onely give me leave to adde one word ſhewing the diſparity of the Forces on both ſides, that ſo you may ſee, and all the world acknow<g ref="char:EOLhyphen"/>ledge the great hand of God in this buſineſſe; The <hi>Scots</hi> Army could not be leſſe then 12000. effective Foot well armed, and 5000. Horſe, <hi>Langdale</hi> not leſſe then 2500. Foot, and 1500. Horſe, in all one and twenty thouſand; and truly very few of their Foot but were as well armed, if not better than yours, and at divers diſputes did fight two or three houres before they would quit their ground: Yours were about 2500. Horſe and Dragoons of your old Army, about 4000. Foot of your old Army alſo, about 1600. <hi>Lancaſhire</hi> Foot, and about 500. <hi>Lancaſhire</hi> Horſe, in all about 8600. you ſee by computation about 2000. of the Enemy ſlaine, betwixt eight and nine thouſand Priſoners, beſides what are lurking in Hedges and private places, which the Country daily bring in or deſtroy. Where <hi>Langdale</hi> and his bro<g ref="char:EOLhyphen"/>ken Forces are, I know not, but they are exceedingly ſhattered; ſurely Sir, this is nothing but the hand of God, praiſe onely be<g ref="char:EOLhyphen"/>longs to him, and where ever any thing in this world is exal<g ref="char:EOLhyphen"/>ted, or exalts it ſelfe, God will pull it downe, for this is the day wherein he alone will be exalted; it is not fit for me to give advice, nor to ſay a word what uſe ſhould be made of this more than to pray you, and all that acknowledge God, that they would onely exalt him, and not hate his people who are as the apple of his eye, and for whom even Kings ſhall be reproved; and that you would take courage to doe the worke of the Lord, in fulfilling the end of your Magiſtracy, in ſeeking the peace and welfare of the people of this Land, that all that will live quietly and peaceably may have countenance from you; and they that are implacable, and will not leave troubling the Land, may ſpeedily be deſtroyed out of the Land; and if you take courage in this God will bleſſe you, and good men will ſtand by you, and God will have glory, and the Land will have happineſſe by you in deſpight of all your enemies, which ſhall be the prayer, of</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt humble and faithfull ſervant</hi> O. Cromwell.</signed>
+               <date>20 <hi>Auguſt.</hi>
+               </date>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:114725:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>WE have not in all this loſt a conſiderable Officer but Colonell <hi>Thornhaugh,</hi> and not many Souldiers, conſidering the ſer<g ref="char:EOLhyphen"/>vice, but many are wounded, our Horſe almoſt deſtroyed, and our Foot beaten out of Cloaths, Shooes, and Stockings; our Horſe will need re<g ref="char:EOLhyphen"/>cruit, and our Foot Regiments need to be recruited alſo, for they are very much ſhaken with hard marchings, very much wanting ſupplyes of money; ſome of thoſe which were with me in <hi>Wales</hi> not having had any pay ſince before our march thither. I humbly crave, That ſome courſe be taken to diſpoſe of the Priſoners, the trouble and extreame charge of the Country where they lye is more then the danger of their eſcape; I thinke they would not goe home if they might without a Convoy, they are ſo fear<g ref="char:EOLhyphen"/>full of the Country from whom they have deſerved ſo ill; ten men will keep a thouſand of them from running away.</p>
+         </div>
+         <div type="order">
+            <opener>
+               <date>
+                  <hi>Die Mercurii</hi> 23 <hi>Auguſt.</hi> 1648.</date>
+            </opener>
+            <p>ORdered by the Lords and Commons in Parliament Aſſembled, That Thurſday come fortnight, the ſeventh of <hi>September</hi> next, be appointed a day of ſolemne Thankſgiving thorow the whole Kingdome, unto Al<g ref="char:EOLhyphen"/>mighty God, for his wonderfull great mercy and ſucceſſe beſtowed upon the Parliament Forces under the Com<g ref="char:EOLhyphen"/>mand of Lieutenant Generall <hi>Cromwell,</hi> againſt the whole Scots Army under the Conduct and Command of Duke <hi>Hamilton</hi> on the ſeventeenth, eighteenth, and nineteenth of this preſent <hi>Auguſt</hi> in <hi>Lancaſhire.</hi>
+            </p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
